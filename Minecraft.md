@@ -56,6 +56,7 @@ https://mega.nz/file/GmRXkCTC#mqD125QqJfuprttTRpoYm6Wskg7l4Esd6JviUssqTVQ
 
 伺服器設定介紹: https://minecraft.fandom.com/zh/wiki/Server.properties?variant=zh-tw
 伺服器設定:(下面是我整理出來的設定留自己原本伺服器的上面兩行文字其他刪掉複製上去就OK了)
+'''
 spawn-protection=16
 max-tick-time=60000
 query.port=25565
@@ -106,7 +107,7 @@ enable-jmx-monitoring=false
 motd=A Minecraft Server
 enable-rcon=false
 rate-limit=0
-
+'''
 
 
 
